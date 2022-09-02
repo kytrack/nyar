@@ -1,0 +1,19 @@
+body{
+    background-image: url(photo-1553095066-5014bc7b7f2d.jpg);
+}
+img{
+    width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2%;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.45);
+}
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+.lekapcsolt{
+    background-image: url(lekapcsoltlampa.jpg);
+}
